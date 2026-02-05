@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I’m Madhur 👋
 
-<!--
-**madhurarora0/madhurarora0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Software Engineer with experience building reliable backend systems and a strong foundation in
+Data Structures & Algorithms, Object-Oriented Programming, and problem solving.
 
-Here are some ideas to get you started:
+I primarily work with Java and Python and enjoy designing clean, maintainable backend logic and
+reasoning about correctness, performance, and edge cases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I focus on
+- Backend engineering and system fundamentals
+- Data Structures & Algorithms (interview-focused)
+- Writing clean, readable, production-quality code
+- Understanding trade-offs in performance and design
+
+### Technical Skills
+- Languages: Java, Python, SQL  
+- Core CS: Data Structures, Algorithms, OOP  
+- Backend: REST APIs, Microservices, Asynchronous Programming  
+- Systems: OS basics, Computer Networks basics, System Design fundamentals  
+- Tools: Git, Linux, Docker, AWS (IAM, KMS)
+
